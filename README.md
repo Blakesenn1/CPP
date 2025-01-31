@@ -1,2 +1,2 @@
-CPP 
-Coding projects in C++
+# CPP
+Projects coded in C++
